@@ -39,7 +39,7 @@ Installation & Upgrade
    If you are downloading the plugin directly from GitHub, you can do so by
    changing into the `#{RAILS_ROOT}/plugins` directory and issuing the command:
    ```
-   git clone git://github.com/tainewoo/redmine_ldap_sync.git
+  
    ```
 
    **upgrade** - Backup and replace the old plugin directory with the new
